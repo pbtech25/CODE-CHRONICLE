@@ -18,5 +18,6 @@ public class palindrome {
         }
 
         System.out.println(pali);
+        sc.close();
     }
 }
