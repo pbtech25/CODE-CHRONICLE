@@ -19,14 +19,6 @@ public class arrayInput {
         
         //finding percenatges
         float percenatge = ((marks[0] + marks[1] + marks[2])/3);
-<<<<<<< HEAD
-=======
-
-        System.out.println("Length of array:" + marks.length);
-
-
-        System.out.println("Percentage: " + percenatge);
->>>>>>> b87860efe583acd27d65f7c7d011ba2588e294c1
 
 
         System.out.println("Percentage: " + percenatge);
