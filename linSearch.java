@@ -23,7 +23,7 @@ public class linSearch {
         if (index == -1) {
             System.out.println("NOT FOUND");
         }else{
-            System.out.println("Key found at : " + (index+1));
+            System.out.println("Key found at position: " + (index+1) + "\nand " + "\nAt index: " + index );
         }
 
         sc.close();
