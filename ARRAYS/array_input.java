@@ -1,3 +1,4 @@
+package ARRAYS;
 import java.util.*;
 
 public class array_input {
@@ -15,5 +16,7 @@ public class array_input {
         System.out.println("Physics: " + marks[0]);
         System.out.println("Chemistry: " + marks[1]);
         System.out.println("Maths: " + marks[2]);
+
+        sc.close();
     }
 }
