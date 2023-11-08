@@ -2,11 +2,12 @@
 
 Started coding on 05/11/2023
 
-|    **DATE**     |          **WORK**          |
-| :-------------: | :------------------------: |
-| **06/011/2023** |   Started leaning Arrays   |
-| **07/11/2023**  | Worked on Project (B.Tech) |
-| **08/11/2023**  |       Binary Search        |
+|    **DATE**     |           **WORK**            |
+| :-------------: | :---------------------------: |
+| **06/011/2023** |    Started leaning Arrays     |
+| **07/11/2023**  |  Worked on Project (B.Tech)   |
+| **08/11/2023**  |         Binary Search         |
+| **09/11/2023**  | Reverse an Array(Brute Force) |
 
 ## Shorts idea:
 
