@@ -43,7 +43,7 @@ public class revArrayBF {
             System.out.print(k + " ");
         }
 
-        System.out.println("Reversed Array: ");
+        System.out.println("\nReversed Array: ");
         reverseArrayBruteForce(arr);
 
     }
