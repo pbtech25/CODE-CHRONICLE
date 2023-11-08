@@ -28,7 +28,7 @@ public class revArrayBF {
     // }
     // }
 
-    public static void reverseArrayBruteForce(int arr[]) {
+    public static void revArrayBruteForce(int arr[]) {
         for (int i = arr.length - 1; i >= 0; i--) {
             System.out.print(arr[i] + " ");
         }
@@ -44,7 +44,7 @@ public class revArrayBF {
         }
 
         System.out.println("\nReversed Array: ");
-        reverseArrayBruteForce(arr);
+        revArrayBruteForce(arr);
 
     }
 
