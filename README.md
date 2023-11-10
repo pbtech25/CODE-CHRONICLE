@@ -9,6 +9,7 @@ Started coding on 05/11/2023
 | **08/11/2023**  |                 Binary Search                  |
 | **09/11/2023**  | Reverse an Array(Brute Force) + Pairs in Array |
 | **10/11/2023**  |       Maximum SubArray Sum(Brute Force)        |
+| **11/11/2023**  |        Maximum SubArray Sum(Prefix Sum)        |
 
 ## Shorts idea:
 
