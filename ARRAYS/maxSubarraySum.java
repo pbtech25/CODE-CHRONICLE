@@ -22,7 +22,7 @@ public class maxSubarraySum {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, -2, 6, 1, -3 };
+        int arr[] = { 2, 4, 6, 8, 10 };
 
         int max_sum = max_subarray_sum(arr);
 
