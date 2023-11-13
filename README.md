@@ -12,6 +12,7 @@ Started coding on 05/11/2023
 | **11/11/2023**  | 1. Maximum SubArray Sum(Prefix Sum)            |
 |                 | 2. Maximum SubArray Sum(Kadane's Algorithm)    |
 | **13/11/2023**  | Trapping Rainwater Problem                     |
+| **14/11/2023**  | Buy and Sell Stocks Code                       |
 
 ## Shorts idea:
 
