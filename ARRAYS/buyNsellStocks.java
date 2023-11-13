@@ -18,7 +18,6 @@ public class buyNsellStocks {
     public static void main(String args[]) {
         int prices[] = { 7, 1, 5, 3, 6, 4 };
 
-        int max_profit = buyNsell(prices);
-        System.out.println("maximum profit is: " + max_profit);
+        System.out.println("maximum profit is: " + buyNsell(prices));
     }
 }
