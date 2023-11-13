@@ -22,7 +22,6 @@ public class trappingRainwater {
         for (int i = 0; i < n; i++) {
             // water level = min(leftmax boundary, rightmax boundary)
             waterLevel = Math.min(leftMax[i], rightMax[i]);
-
             // trapped water = (water level - height[i]) * width(which is 1)
             trappedRainwater += waterLevel - height[i];
         }
