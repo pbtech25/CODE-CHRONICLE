@@ -2,6 +2,8 @@ public class trappingRainwater {
     public static int trappedRainwater(int height[]) {
         // calculate left max boundary
         int leftMax[] = new int[height.length];
+        leftMax[0] = height[0];
+
         // calculate reght max boundary
 
         // loop
