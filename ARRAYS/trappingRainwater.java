@@ -13,7 +13,7 @@ public class trappingRainwater {
         int rightMax[] = new int[n];
         rightMax[n - 1] = height[n - 1];
         for (int i = n - 2; i >= 0; i--) {
-            rightMax[i] = Math.max(height[i], height[i + 1]);
+            rightMax[i] = Math.max(height[i], rightMax[i + 1]);
         }
 
         int trappedwater = 0, waterLevel = 0;
@@ -33,6 +33,6 @@ public class trappingRainwater {
     public static void main(String[] args) {
         int height[] = { 4, 2, 0, 6, 3, 2, 5 };
 
-        System.out.println(trappedRainwater(height));
+        System.out.println("Total trapped rain water is : " + trappedRainwater(height));
     }
 }
