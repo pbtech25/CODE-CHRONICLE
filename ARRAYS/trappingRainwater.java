@@ -1,5 +1,5 @@
 public class trappingRainwater {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        int height[] = { 4, 2, 0, 6, 3, 2, 5 };
     }
 }
