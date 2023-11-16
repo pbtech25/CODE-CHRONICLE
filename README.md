@@ -13,6 +13,8 @@ Started coding on 05/11/2023
 |                 | 2. Maximum SubArray Sum(Kadane's Algorithm)    |
 | **13/11/2023**  | Trapping Rainwater Problem                     |
 | **14/11/2023**  | Buy and Sell Stocks Code                       |
+| **15/11/2023**  | Didn't do anything 😔😔🤧                      |
+| **16/11/2023**  | Practiced Trapping Rainwater Problem           |
 
 ## Shorts idea:
 
@@ -22,3 +24,4 @@ Started coding on 05/11/2023
 |    2    | **for(int k : arr){sout(k+ " ");}** |                                                                                                                               This is an alternate way to get output from an array than the traditional and old way                                                                                                                                |
 |    3    |       **Kadane's Algorithm**        |                                                                                                                   Here currSum = 0; when it becomes -ve. Similarly in life when got -ve, ignore it and start again from zero ❤️                                                                                                                    |
 |    4    |    **Consistency While coding**     |                                                                                                                                                               Don't chase perfection                                                                                                                                                               |
+|    5    |  **Trapping Rainwater Pseudocode**  |                                                                                                                                              leftmax -> rightmax -> loop -> compare -> sum -> return                                                                                                                                               |
