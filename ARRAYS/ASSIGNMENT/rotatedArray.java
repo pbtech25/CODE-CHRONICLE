@@ -10,10 +10,11 @@ public class rotatedArray {
             int mid = (start + end) / 2;
 
             if (arr[mid] == target) {
-                return mid;
+                return mid; // found the target
             }
 
-            if (start <= arr[mid]) {
+            // check for which half is sorted
+            if (arr[start] <= arr[mid]) {
                 // left sort
                 if (arr[start] <= target && target <= arr[mid]) {
                     end = mid - 1;
@@ -34,7 +35,7 @@ public class rotatedArray {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 7, 8, 9, 1, 2, 3, 4, 5, 6 }, target = 1;
+        int arr[] = { 7, 8, 9, 1, 2, 3, 4, 5, 6 }, target = 7;
 
         int index = findTarget(arr, target);
 
