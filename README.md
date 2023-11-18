@@ -16,7 +16,7 @@ Started coding on 05/11/2023
 | **15/11/2023**  | Didn't do anything 😔😔🤧                      |
 | **16/11/2023**  | Practiced Trapping Rainwater Problem           |
 | **17/11/2023**  | Revised Binary Search Algorithm                |
-| **18/11/2023**  |                                                |
+| **18/11/2023**  | Understood fully Rotated Sorted array          |
 
 ## Shorts idea:
 
