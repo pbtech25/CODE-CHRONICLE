@@ -17,6 +17,7 @@ Started coding on 05/11/2023
 | **16/11/2023**  | Practiced Trapping Rainwater Problem           |
 | **17/11/2023**  | Revised Binary Search Algorithm                |
 | **18/11/2023**  | Understood fully Rotated Sorted array          |
+| **19/11/2023**  | Revised Buy and Sell Stocks Code               |
 
 ## Shorts idea:
 
