@@ -17,8 +17,8 @@ public class buyAndSellStocks {
     }
 
     public static void main(String[] args) {
-        int prices[] = { 7, 1, 5, 3, 6, 4 };
-
+        // int prices[] = { 7, 1, 5, 3, 6, 4 };
+        int prices[] = { 7, 6, 4, 3, 1 };
         System.out.println("Maimum profit earned is: " + buy_and_sell(prices));
     }
 }
