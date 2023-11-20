@@ -18,7 +18,8 @@ Started coding on 05/11/2023
 | **17/11/2023**  | Revised Binary Search Algorithm                |
 | **18/11/2023**  | Understood fully Rotated Sorted array          |
 | **19/11/2023**  | Revised Buy and Sell Stocks Code               |
-| **20/11/2023**  | Revised Trapping Rainwater in Assignment       |
+| **20/11/2023**  | 1. Revised Trapping Rainwater in Assignment    |
+|                 | 2. LeetCoded Trapping Rainwater                |
 
 ## Shorts idea:
 
