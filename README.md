@@ -20,6 +20,7 @@ Started coding on 05/11/2023
 | **19/11/2023**  | Revised Buy and Sell Stocks Code               |
 | **20/11/2023**  | 1. Revised Trapping Rainwater in Assignment    |
 |                 | 2. LeetCoded Trapping Rainwater                |
+| **23/11/2023**  | Revised Bubble Sort                            |
 
 ## Shorts idea:
 
