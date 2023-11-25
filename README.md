@@ -21,7 +21,8 @@ Started coding on 05/11/2023
 | **20/11/2023**  | 1. Revised Trapping Rainwater in Assignment    |
 |                 | 2. LeetCoded Trapping Rainwater                |
 | **23/11/2023**  | Revised Bubble Sort                            |
-| **24/11/2023**  | Learnt Selection Sort                          |
+| **24/11/2023**  | Learnt Selection Sort & Insertion Sort         |
+| **25/11/2023**  | Revised Insertion Sort                         |
 
 ## Shorts idea:
 
