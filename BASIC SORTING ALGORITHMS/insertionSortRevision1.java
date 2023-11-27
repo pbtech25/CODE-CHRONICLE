@@ -25,8 +25,14 @@ public class insertionSortRevision1 {
 
         // insertion_sort(arr);
 
-        Arrays.sort(arr);
-        System.out.println("Arry sorted by Arrays.sort() : ");
+        // Arrays.sort(arr);
+        // System.out.println("Array sorted by Arrays.sort() : ");
+        // for (int k : arr) {
+        // System.out.print(k + " ");
+        // }
+
+        Arrays.sort(arr, 0, 3); // sorting array from index 0 -> 2 ; written 3 because toIndex is not inclusive
+        System.out.println("Array sorted by Arrays.sort(arr, fromIndex, toIndex) : ");
         for (int k : arr) {
             System.out.print(k + " ");
         }
