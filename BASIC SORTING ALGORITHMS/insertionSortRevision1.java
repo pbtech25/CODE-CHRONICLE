@@ -1,3 +1,5 @@
+import java.util.Arrays; //also can import java.util.*;
+
 public class insertionSortRevision1 {
     public static void insertion_sort(int arr[]) {
         for (int i = 1; i < arr.length; i++) {
@@ -21,6 +23,12 @@ public class insertionSortRevision1 {
     public static void main(String[] args) {
         int arr[] = { 5, 1, 4, 3, 2 };
 
-        insertion_sort(arr);
+        // insertion_sort(arr);
+
+        Arrays.sort(arr);
+        System.out.println("Arry sorted by Arrays.sort() : ");
+        for (int k : arr) {
+            System.out.print(k + " ");
+        }
     }
 }
