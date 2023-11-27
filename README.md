@@ -23,6 +23,7 @@ Started coding on 05/11/2023
 | **23/11/2023**  | Revised Bubble Sort                            |
 | **24/11/2023**  | Learnt Selection Sort & Insertion Sort         |
 | **25/11/2023**  | Revised Insertion Sort                         |
+| **26/11/2023**  | Revised Insertion Sort again                   |
 
 ## Shorts idea:
 
