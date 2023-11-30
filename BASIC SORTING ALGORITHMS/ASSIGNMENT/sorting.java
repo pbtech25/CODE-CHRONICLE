@@ -66,6 +66,27 @@ public class sorting {
     }
 
     public static void count_sort(int arr[]) {
+        // find range
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < arr.length; i++) {
+            max = Math.max(max, arr[i]);
+        }
+
+        // count frequency
+        int count[] = new int[max + 1];
+        for (int i = 0; i < arr.length; i++) {
+            count[arr[i]]++;
+        }
+
+        // sort
+        int j = 0;
+        for (int i = 0; i < count.length; i++) {
+            while (count[i] > 0) {
+                arr[j] = i;
+                j++;
+                count[i]--;
+            }
+        }
 
         // print
         for (int k : arr) {
@@ -82,10 +103,10 @@ public class sorting {
         // System.out.println("selection sorting: ");
         // selection_sort(arr);
 
-        System.out.println("insertion sorting: ");
-        insertion_sort(arr);
+        // System.out.println("insertion sorting: ");
+        // insertion_sort(arr);
 
-        // System.out.println("count sorting: ");
-        // count_sort(arr);
+        System.out.println("count sorting: ");
+        count_sort(arr);
     }
 }
