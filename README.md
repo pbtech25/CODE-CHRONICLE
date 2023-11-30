@@ -29,7 +29,7 @@ Started coding on 05/11/2023
 |                 | 4. The Integer class wraps a value of the primitive type int in an object. |
 | **29/11/2023**  | Counting Sort                                                              |
 | **30/11/2023**  | 1. Revised Bubble sort again and in assignment question as well            |
-|                 | 1. Revised Bubble sort again and in assignment question as well            |
+|                 | 2. Revised Selection sort in assignment question.                          |
 
 ## Shorts idea:
 
