@@ -30,6 +30,7 @@ Started coding on 05/11/2023
 | **29/11/2023**  | Counting Sort                                                              |
 | **30/11/2023**  | 1. Revised Bubble sort again and in assignment question as well            |
 |                 | 2. Revised Selection sort in assignment question.                          |
+|                 | 3. Revised Insertion sort in assignment question.                          |
 
 ## Shorts idea:
 
