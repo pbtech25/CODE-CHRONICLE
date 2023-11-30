@@ -28,6 +28,7 @@ Started coding on 05/11/2023
 |                 | 3. Implemented Arrays.sort(arrayName, fromIndex, toIndex);                 |
 |                 | 4. The Integer class wraps a value of the primitive type int in an object. |
 | **29/11/2023**  | Counting Sort                                                              |
+| **30/11/2023**  | Revised Bubble sort again                                                  |
 
 ## Shorts idea:
 
