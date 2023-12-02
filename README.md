@@ -32,6 +32,7 @@ Started coding on 05/11/2023
 |                 | 2. Revised Selection sort in assignment question.                          |
 |                 | 3. Revised Insertion sort in assignment question.                          |
 |                 | 4. Revised Counting sort in assignment question.                           |
+| **02/12/2023**  | Started learning 2D Arrays                                                 |
 
 ## Shorts idea:
 
