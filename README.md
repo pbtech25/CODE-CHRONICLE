@@ -33,7 +33,8 @@ Started coding on 05/11/2023
 |                 | 3. Revised Insertion sort in assignment question.                          |
 |                 | 4. Revised Counting sort in assignment question.                           |
 | **02/12/2023**  | Started learning 2D Arrays                                                 |
-| **03/12/2023**  | Seacrhed for an element in a 2D-Array                                      |
+| **03/12/2023**  | 1. Seacrhed for an element in a 2D-Array                                   |
+|                 | 2. Added func to find Largest and Smallest Element in 2D-Array             |
 
 ## Shorts idea:
 
