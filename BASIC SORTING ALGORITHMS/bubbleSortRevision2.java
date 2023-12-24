@@ -1,4 +1,10 @@
 public class bubbleSortRevision2 {
+    public static void print(int array[]) {
+        for (int k : array) {
+            System.out.print(k + " ");
+        }
+    }
+
     public static void bubbleSort(int array[]) {
         for (int i = 1; i <= array.length - 1; i++) {
             for (int j = 0; j < array.length - i - 1; j++) {
@@ -11,9 +17,7 @@ public class bubbleSortRevision2 {
             }
         }
 
-        for (int k : array) {
-            System.out.print(k + " ");
-        }
+        print(array);
     }
 
     public static void main(String[] args) {
