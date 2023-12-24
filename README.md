@@ -35,6 +35,7 @@ Started coding on 05/11/2023
 | **02/12/2023**  | Started learning 2D Arrays                                                 |
 | **03/12/2023**  | 1. Seacrhed for an element in a 2D-Array                                   |
 |                 | 2. Added func to find Largest and Smallest Element in 2D-Array             |
+| **24/12/2023**  | Revised Bubble sort second time                                            |
 
 ## Shorts idea:
 
