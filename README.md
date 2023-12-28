@@ -2,40 +2,41 @@
 
 Started coding on 05/11/2023
 
-|    **DATE**     | **WORK**                                                                   |
-| :-------------: | :------------------------------------------------------------------------- |
-| **06/011/2023** | Started learning Arrays                                                    |
-| **07/11/2023**  | Worked on Project (B.Tech)                                                 |
-| **08/11/2023**  | Binary Search                                                              |
-| **09/11/2023**  | Reverse an Array(Brute Force) + Pairs in Array                             |
-| **10/11/2023**  | Maximum SubArray Sum(Brute Force)                                          |
-| **11/11/2023**  | 1. Maximum SubArray Sum(Prefix Sum)                                        |
-|                 | 2. Maximum SubArray Sum(Kadane's Algorithm)                                |
-| **13/11/2023**  | Trapping Rainwater Problem                                                 |
-| **14/11/2023**  | Buy and Sell Stocks Code                                                   |
-| **15/11/2023**  | Didn't do anything 😔😔🤧                                                  |
-| **16/11/2023**  | Practiced Trapping Rainwater Problem                                       |
-| **17/11/2023**  | Revised Binary Search Algorithm                                            |
-| **18/11/2023**  | Understood fully Rotated Sorted array                                      |
-| **19/11/2023**  | Revised Buy and Sell Stocks Code                                           |
-| **20/11/2023**  | 1. Revised Trapping Rainwater in Assignment                                |
-|                 | 2. LeetCoded Trapping Rainwater                                            |
-| **23/11/2023**  | Revised Bubble Sort                                                        |
-| **24/11/2023**  | Learnt Selection Sort & Insertion Sort                                     |
-| **25/11/2023**  | Revised Insertion Sort                                                     |
-| **26/11/2023**  | 1. Revised Insertion Sort again                                            |
-|                 | 2. Implemented Arrays.sort();                                              |
-|                 | 3. Implemented Arrays.sort(arrayName, fromIndex, toIndex);                 |
-|                 | 4. The Integer class wraps a value of the primitive type int in an object. |
-| **29/11/2023**  | Counting Sort                                                              |
-| **30/11/2023**  | 1. Revised Bubble sort again and in assignment question as well            |
-|                 | 2. Revised Selection sort in assignment question.                          |
-|                 | 3. Revised Insertion sort in assignment question.                          |
-|                 | 4. Revised Counting sort in assignment question.                           |
-| **02/12/2023**  | Started learning 2D Arrays                                                 |
-| **03/12/2023**  | 1. Seacrhed for an element in a 2D-Array                                   |
-|                 | 2. Added func to find Largest and Smallest Element in 2D-Array             |
-| **24/12/2023**  | Revised Bubble sort second time                                            |
+|    **DATE**     | **WORK**                                                                               |
+| :-------------: | :------------------------------------------------------------------------------------- |
+| **06/011/2023** | Started learning Arrays                                                                |
+| **07/11/2023**  | Worked on Project (B.Tech)                                                             |
+| **08/11/2023**  | Binary Search                                                                          |
+| **09/11/2023**  | Reverse an Array(Brute Force) + Pairs in Array                                         |
+| **10/11/2023**  | Maximum SubArray Sum(Brute Force)                                                      |
+| **11/11/2023**  | 1. Maximum SubArray Sum(Prefix Sum)                                                    |
+|                 | 2. Maximum SubArray Sum(Kadane's Algorithm)                                            |
+| **13/11/2023**  | Trapping Rainwater Problem                                                             |
+| **14/11/2023**  | Buy and Sell Stocks Code                                                               |
+| **15/11/2023**  | Didn't do anything 😔😔🤧                                                              |
+| **16/11/2023**  | Practiced Trapping Rainwater Problem                                                   |
+| **17/11/2023**  | Revised Binary Search Algorithm                                                        |
+| **18/11/2023**  | Understood fully Rotated Sorted array                                                  |
+| **19/11/2023**  | Revised Buy and Sell Stocks Code                                                       |
+| **20/11/2023**  | 1. Revised Trapping Rainwater in Assignment                                            |
+|                 | 2. LeetCoded Trapping Rainwater                                                        |
+| **23/11/2023**  | Revised Bubble Sort                                                                    |
+| **24/11/2023**  | Learnt Selection Sort & Insertion Sort                                                 |
+| **25/11/2023**  | Revised Insertion Sort                                                                 |
+| **26/11/2023**  | 1. Revised Insertion Sort again                                                        |
+|                 | 2. Implemented Arrays.sort();                                                          |
+|                 | 3. Implemented Arrays.sort(arrayName, fromIndex, toIndex);                             |
+|                 | 4. The Integer class wraps a value of the primitive type int in an object.             |
+| **29/11/2023**  | Counting Sort                                                                          |
+| **30/11/2023**  | 1. Revised Bubble sort again and in assignment question as well                        |
+|                 | 2. Revised Selection sort in assignment question.                                      |
+|                 | 3. Revised Insertion sort in assignment question.                                      |
+|                 | 4. Revised Counting sort in assignment question.                                       |
+| **02/12/2023**  | Started learning 2D Arrays                                                             |
+| **03/12/2023**  | 1. Seacrhed for an element in a 2D-Array                                               |
+|                 | 2. Added func to find Largest and Smallest Element in 2D-Array                         |
+| **24/12/2023**  | Revised Bubble sort second time                                                        |
+| **29/12/2023**  | Revised Insertion Sort by Striver's Explaination and found it easier than Apna College |
 
 ## Shorts idea:
 
