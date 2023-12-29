@@ -37,6 +37,7 @@ Started coding on 05/11/2023
 |                 | 2. Added func to find Largest and Smallest Element in 2D-Array                         |
 | **24/12/2023**  | Revised Bubble sort second time                                                        |
 | **29/12/2023**  | Revised Insertion Sort by Striver's Explaination and found it easier than Apna College |
+|                 | Revised Counting Sort Algorithm                                                        |
 
 ## Shorts idea:
 
