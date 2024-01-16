@@ -39,6 +39,7 @@ Started coding on 05/11/2023
 | **29/12/2023**  | Revised Insertion Sort by Striver's Explaination and found it easier than Apna College |
 |                 | Revised Counting Sort Algorithm                                                        |
 | **14/01/2024**  | Created 2D Array                                                                       |
+| **16/01/2024**  | Search in a 2D Array                                                                   |
 
 ## Shorts idea:
 
