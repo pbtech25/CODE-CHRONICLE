@@ -40,6 +40,7 @@ Started coding on 05/11/2023
 |                 | Revised Counting Sort Algorithm                                                        |
 | **14/01/2024**  | Created 2D Array                                                                       |
 | **16/01/2024**  | Search in a 2D Array                                                                   |
+| **17/01/2024**  | Wrote a Code for Finding Largest and Smallest element in a Martrix                     |
 
 ## Shorts idea:
 
