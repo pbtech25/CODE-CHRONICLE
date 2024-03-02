@@ -44,6 +44,7 @@ Started coding on 05/11/2023
 | **18/01/2024** | 🥲                                                                                     |
 | **19/01/2024** | 🥲                                                                                     |
 | **20/01/2024** | Understood and Implemented Spiral Matrix Code in JAVA                                  |
+| **02/03/2024** | Started learning Java Collections Framework                                            |
 
 ## Shorts idea:
 
