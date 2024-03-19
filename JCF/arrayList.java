@@ -37,9 +37,23 @@ public class arrayList {
 
         // System.out.println(list.get(2));
 
-        // -------------------DAY
-        // 2--------------------------------------------------------
+        // -------------------DAY 2------------------------------------------
 
+        // List<Integer> list = new ArrayList<>();
+        // list.add(10);
+        // list.add(20);
+        // list.add(30);
+        // list.add(40);
+        // list.add(50);
+        // System.out.println(list);
+
+        // list.remove(2); // removed element from index 2 i.e. 30
+        // System.out.println(list);
+
+        // list.remove(Integer.valueOf(10));
+        // System.out.println(list);
+
+        // -------------------DAY 03------------------------------------------
         List<Integer> list = new ArrayList<>();
         list.add(10);
         list.add(20);
@@ -48,10 +62,13 @@ public class arrayList {
         list.add(50);
         System.out.println(list);
 
-        list.remove(2); // removed element from index 2 i.e. 30
+        // list.clear(); // it will remove all elements from the list
         System.out.println(list);
 
-        list.remove(Integer.valueOf(10));
+        list.set(2, 31); // set value at index 2 to 31
         System.out.println(list);
+
+        System.out.println(list.contains(40)); // returns true if contains 40 otherwise false
+
     }
 }
