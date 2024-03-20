@@ -123,6 +123,5 @@ public class arrayList {
          * System.out.println("iterator elements " + it.next());
          * }
          */
-
     }
 }
