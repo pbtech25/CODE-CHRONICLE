@@ -71,8 +71,58 @@ public class arrayList {
         // System.out.println(list.contains(40)); // returns true if contains 40
         // otherwise false
 
-        // ------------------------------DAY
-        // 04------------------------------------------
+        // ------------------------------DAY 04-------------------------
+
+        /*
+         * // Iterator
+         * 
+         * List<String> cars = new ArrayList<>();
+         * 
+         * cars.add("Tata");
+         * cars.add("Volkswagon");
+         * cars.add("Porche");
+         * cars.add("BMW");
+         * 
+         * Iterator<String> it = cars.iterator();
+         * 
+         * System.out.println(it.next() + "\n"); // prints first item
+         * 
+         * while (it.hasNext()) { // .hasNext() checks whether there is next element
+         * available or not
+         * System.out.println(it.next()); // prints all items
+         * }
+         * 
+         */
+
+        /*
+         * List<Integer> list = new ArrayList<>();
+         * 
+         * list.add(10);
+         * list.add(20);
+         * list.add(30);
+         * list.add(40);
+         * list.add(50);
+         * list.add(60);
+         * list.add(70);
+         * list.add(80);
+         * 
+         * // for loop
+         * for (int i = 0; i < list.size(); i++) {
+         * System.out.println("for elements " + list.get(i) + " ");
+         * }
+         * 
+         * // foreach
+         * for (int i : list) {
+         * System.out.println("foreach elements " + i + " ");
+         * }
+         * 
+         * // using Iterator
+         * Iterator<Integer> it = list.iterator();
+         * 
+         * while (it.hasNext()) {
+         * System.out.println("iterator elements " + it.next());
+         * }
+         */
 
     }
 }
