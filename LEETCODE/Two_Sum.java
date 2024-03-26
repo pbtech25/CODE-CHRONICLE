@@ -12,6 +12,7 @@ public class Two_Sum {
         phonebook.put(789, "Tim");
         phonebook.put(1020, "Karim");
         phonebook.put(1021, "Iqbal");
+        phonebook.put(1022, "Himesh");
 
         System.out.println(phonebook.get(123));
     }
